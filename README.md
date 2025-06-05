@@ -1,3 +1,5 @@
+04/Jun/2025 CJH : this no longer works - most web platforms are shut down. Very few Dubs out there. 
+
 # KissAnimeBatchDownloader
 
 Setup Instructions:
